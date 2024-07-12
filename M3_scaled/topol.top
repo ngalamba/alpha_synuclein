@@ -1,0 +1,13 @@
+#include "martini_v3.0.0_vCHARGE_DIFF_1.1.itp"				
+#include "martini_v3.0.0_ions_v1.itp"
+#include "martini_v3.0.0_solvents_v1.itp"
+#include "molecule_0.itp"
+
+[ system ]
+Title of the system
+
+[ molecules ]
+molecule_0    1
+W           151051
+NA               1736
+CL               1727
